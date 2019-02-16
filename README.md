@@ -1,5 +1,6 @@
-#Project-1 MNIST on the Cloud
-Assignment Instructions
+# Project-1 MNIST on the Cloud
+
+## Assignment Instructions
 •IBM Cloud
 •Register the account
 •Step by step instructions
