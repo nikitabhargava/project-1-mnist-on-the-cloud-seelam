@@ -8,8 +8,8 @@
 
 Command line interface     
 
-Do the same thing from your laptop
-•Instead of GUI on the web browser
+Do the same thing from your laptop  
+•Instead of GUI on the web browser  
 •https://dataplatform.cloud.ibm.com/docs/content/analyze-data/ml_dlaas_environment.html?linkInPage=true
 
 ## Grading
